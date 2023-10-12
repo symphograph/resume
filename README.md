@@ -161,9 +161,11 @@
 
   (PHP, HTML)
 
+
 - Разработал уровень игрового платформера.
 
   (Unity, C#)
+
 
 - Продолжал работу над проектом [<b>SymphoStaff</b>](https://github.com/symphograph/SymphoStaff)
 
