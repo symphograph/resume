@@ -226,6 +226,6 @@ PHP-Backend разработчик с более чем двадцатилетн
     [Frontend](https://github.com/symphograph/ArcheAgeTools_Frontend), [Backend](https://github.com/symphograph/ArcheAgeTools_API)
 
 
-- Получил сертификат, подтверждающий владение навыком настройки сетей по протоколу [<b>Dante</b>](https://www.audinate.com/)
+- Получил сертификат, подтверждающий навык настройки сетей по протоколу [<b>Dante</b>](https://www.audinate.com/)
     ![dante.jpg](img%2Fdante.jpg)
 ---
